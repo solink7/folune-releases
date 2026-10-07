@@ -1,6 +1,6 @@
 # Folune Releases
 
-Folune 桌面版安装包分发仓库（macOS Apple Silicon / Windows x64）。源码不在此仓库。
+Folune 桌面版安装包分发仓库（macOS Apple Silicon / Windows x64）。
 
 ## 下载
 
